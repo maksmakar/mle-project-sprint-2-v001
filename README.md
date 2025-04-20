@@ -10,4 +10,4 @@ student-mle-20250130-582c662a4e
 #### Инструкция по поднятию MLFlow-сервисов и регистрации модели.
 1. MLFlow и все сервисы поднимаются командой - ./mlflow_server/run_mlflow_server.sh
    Сам sh-файл лежит в папке mlflow_server.
-2. Ноутбук с регистрацией модели также лежит в папке mlflow_server, называется registry_base_model.ipynb
+2. Ноутбук с регистрацией модели, а также pickle-файл самой модели лежат в папке .mlflow_server/  estate_prediction_model_artifacts

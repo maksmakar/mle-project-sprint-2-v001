@@ -1,0 +1,41 @@
+{
+    "n_rows": 106341,
+    "columns": [
+        "id",
+        "floor",
+        "is_apartment",
+        "kitchen_area",
+        "living_area",
+        "rooms",
+        "total_area",
+        "price",
+        "building_id",
+        "build_year",
+        "building_type_int",
+        "latitude",
+        "longitude",
+        "ceiling_height",
+        "flats_count",
+        "floors_total",
+        "has_elevator"
+    ],
+    "columns_types": {
+        "id": "int64",
+        "floor": "int64",
+        "is_apartment": "int64",
+        "kitchen_area": "float64",
+        "living_area": "float64",
+        "rooms": "int64",
+        "total_area": "float64",
+        "price": "int64",
+        "building_id": "object",
+        "build_year": "object",
+        "building_type_int": "object",
+        "latitude": "float64",
+        "longitude": "float64",
+        "ceiling_height": "float64",
+        "flats_count": "int64",
+        "floors_total": "int64",
+        "has_elevator": "int64"
+    }
+}
